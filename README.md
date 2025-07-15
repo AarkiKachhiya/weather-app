@@ -13,7 +13,7 @@ A simple and clean React-based weather application that displays current weather
 
 ---
 
-## 📸 Preview
+## 📸 Preview https://weather-app-aarki.vercel.app/
 
 <img width="1864" height="756" alt="{6FB60B6C-71DC-453F-8B6C-71816CF17DE7}" src="https://github.com/user-attachments/assets/6ab0e06f-d470-4923-8969-5cdb446f321f" />
 
