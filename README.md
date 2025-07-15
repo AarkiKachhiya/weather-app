@@ -27,6 +27,15 @@ A simple and clean React-based weather application that displays current weather
 - Node.js (v18 or higher)
 - npm 
 
+## 🛠️ Tech Stack
+
+- React (Vite) + TypeScript  
+- Tailwind CSS for styling  
+- Framer Motion for animations  
+- React Router for routing  
+- Axios for API requests  
+- OpenWeatherMap API
+  
 ### Installation
 
 ```bash
